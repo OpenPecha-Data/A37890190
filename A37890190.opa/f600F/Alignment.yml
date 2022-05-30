@@ -1,0 +1,26 @@
+segment_sources:
+  I41994BD1:
+    type: origin_type
+    relation: translation
+    language: en
+  I4858C355:
+    type: origin_type
+    relation: translation
+    language: es
+  I185FFE25:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9025084171314a72b612b50f4b5b99c4:
+    I41994BD1: 98847cd2d17e4d0582e8bc203da6c3ea
+    I4858C355: fd9b0e692cae47e182f98e6f9e2ce695
+    I185FFE25: 2dace6708bb545f4ab96dd4ffe170baa
+  fbe25cd93dbb43b98b9d77c4f8be515b:
+    I41994BD1: c6bf84921a064681a78c30fe73e01a67
+    I4858C355: 52849512155c4b739148aaa90def91a6
+    I185FFE25: 4c8a29ada6a647d8aa2029a05574df08
+  2798bad3c6eb4b93af129166b26169e6:
+    I41994BD1: f46fcebf52cc499e971fb26a170097f5
+    I4858C355: de1c6d2e56a34de483ea92504c2f707d
+    I185FFE25: 39c64791d97b4dc99487b3eee7539787
